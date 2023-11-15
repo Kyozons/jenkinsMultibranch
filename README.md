@@ -1,1 +1,1 @@
-Rama QA, al buildear se crea archivo con texto "build qa"
+Rama feature, al buildear se crea archivo con texto "build requerimiento"
