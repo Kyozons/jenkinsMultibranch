@@ -1,0 +1,1 @@
+Set-Content -Path .\buildProd.txt -Value "Build Prod"
