@@ -1,1 +1,1 @@
-Set-Content -Path .\buildProd.txt -Value "Build Prod"
+Set-Content -Path .\buildQA.txt -Value "Build QA"
