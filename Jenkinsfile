@@ -26,7 +26,7 @@ pipeline {
             }
             steps {
                 powershell '.\\build.ps1'
-                powershell 'Move-Item -Path buildFeature.txt -Destination d:\\jenkins-agent'
+                powershell 'Move-Item -Path buildRequerimiento.txt -Destination d:\\jenkins-agent'
             }
         }
 
