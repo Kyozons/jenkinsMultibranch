@@ -1,1 +1,1 @@
-Set-Content -Path .\buildRequerimiento.txt -Value "Build Requerimiento"
+Set-Content -Path .\buildRequerimiento.txt -Value "Build Requerimiento o Feature"
